@@ -1,1 +1,144 @@
-
+{
+  "badge": {
+    "token": ".e-hJtBR0XZrd_hshMODWDY71J9u-olyJW0hLt7r16YO4ByO_-axCrHpO-BF37V0TgSRW-0SXB_EW1ng6Eos8-myT8S3oA5-KWzuLmwiq9mnESLOzbn-YM-LkttpHrIiBUBCun6XgGtSGgIe5iE1dYtFspreDQOm9cUrXttJCePcjsQTjfsPD_mpt9Vm2c3KGPgerKgO6cg3ivblGIpWslXkjwHVeMnWxajqD3QmZATPoqXs0ATAhx_3Sa9FwCTNH",
+    "userId": "OLI_1706809582580",
+    "appId": "1856959567667920",
+    "isFbUser": false,
+    "locale": 1054,
+    "userLevel": 1,
+    "userLevelDetail": "1",
+    "userFlags": [],
+    "sponsorId": 111416,
+    "canRedeem": true,
+    "uuid": "OLI_1706809582580",
+    "joinDate": 1706809613,
+    "usercode": null,
+    "detail": {
+        "oli_level": "Regular",
+        "oli_ref_id": null,
+        "garmin_accesstoken": null,
+        "iservice_tracelog": ""
+    },
+    "cart_count": 0,
+    "platform": "iPhone",
+    "topics": [
+        "favourited_no",
+        "favouritedagency_no",
+        "favouritedcat_no"
+    ],
+    "channel": "bzbs",
+    "TermAndCondition": 3,
+    "DataPrivacy": null,
+    "MarketingOption": null,
+    "ConsentAge": null,
+    "EmailMarketing": null,
+    "SMSMarketing": null,
+    "NotificationMarketing": null,
+    "LineMarketing": null,
+    "jwt": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJPTElfMTcwNjgwOTU4MjU4MCIsIm5iZiI6MTcwNjc4NDQxMiwiZXhwIjoyMDIyNDAzNjEyLCJpc3MiOiJodHRwczovL2J1enplYmVlcy5jb20iLCJhdWQiOiJodHRwczovL2J1enplYmVlcy5jb20iLCJhcHAiOiIxODU2OTU5NTY3NjY3OTIwIiwidXVpZCI6Ik9MSV8xNzA2ODA5NTgyNTgwIiwibGV2ZWwiOjEsInR5cGUiOiJiemJzIiwibG9jYWxlIjoxMDU0LCJyb2xlcyI6Miwic3BvbnNvciI6MTExNDE2LCJtYWNhZGRyZXNzIjoiOUIyMzIyQTYtMTY4Qi00NjA2LTg0QkEtRjhCMkYxRDgxQjcyIiwiZXh0cmEiOm51bGwsIm9zIjoiaW9zIiwidmVyc2lvbiI6MTUwLCJhdXRoX3Rva2VuIjoiNjYwMDAxMTEyMjMxIiwic2FsdCI6IjFDa1kzbGNhb25zNGlvV2p1RWxQQVc3eVNrMzhzb0hRayIsImRldGFpbCI6IntcclxuICBcIm9saV9sZXZlbFwiOiBcIlJlZ3VsYXJcIixcclxuICBcIm9saV9yZWZfaWRcIjogbnVsbCxcclxuICBcImdhcm1pbl9hY2Nlc3N0b2tlblwiOiBudWxsLFxyXG4gIFwiaXNlcnZpY2VfdHJhY2Vsb2dcIjogXCJcIlxyXG59In0.BWNjap7n2FoFCbcvi7GsTuIEw7-dW0N5_zRYdeyqU-998C4EigqWHecV0Z737sn2BJx3qvR1Q5fHDfKdmyQ_8isA10UScUb_YeSNmlbxDb2S6K3oEQMiDpy2Ei5ae1erM5SnXAfxNDmIIwQxf4nksaGgEL4-JA5k9VTdtFrZzUTsieJuyXR7ZJGRo3l9drwty3F5k9Ok8BmpZnluHUtWO3JdfyGftfQJUbQrJ0olaB4gaxkR9eYLnfvsZQZl8XttrkrAmzX3pLad3GA1UpHH_A5awjqsFwEr2frZU7HuVxt84wV5iF8EcXR_J48qpJZh30SQg78juHnqUYIYLtk7xg",
+    "AnalyticsBuzzebeesCookies": null,
+    "AnalyticsFirebaseCookies": null,
+    "AnalyticsGoogleCookies": null,
+    "AnalyticsMetaCookies": null,
+    "AnalyticsOtherCookies": null,
+    "FunctionalCookies": null,
+    "MarketingCookies": null,
+    "NecessaryCookies": null,
+    "version": {
+        "allow_use": true,
+        "has_new_version": false,
+        "welcome_page_times": 1,
+        "termandcondition": 3,
+        "dataprivacy": 1
+    },
+    "authenticated": true,
+    "sponsor_pages": "",
+    "buzzebees": {
+        "points": 511,
+        "updated_points": {
+            "points": 511,
+            "time": 1706784416
+        },
+        "description": "ยินดีด้วย! ท่านได้รับ Ochi Coin 1 เหรียญจากการเข้าสู่ระบบ,ยินดีด้วย! ท่านได้รับ Ochi Coin 500 เหรียญ จากการลงทะเบียน",
+        "traces": [
+            {
+                "Id": "OLI_LoginSSO",
+                "Current": 0,
+                "Change": 1,
+                "Points": 1,
+                "ObjectId": null,
+                "ValueResetReason": "period",
+                "UserDescription": "ยินดีด้วย! ท่านได้รับ Ochi Coin 1 เหรียญจากการเข้าสู่ระบบ",
+                "UserLevel": 0,
+                "CustomInfo": null,
+                "LineMessageSetting": null
+            },
+            {
+                "Id": "OLI_NewbieSSO",
+                "Current": 0,
+                "Change": 1,
+                "Points": 500,
+                "ObjectId": null,
+                "ValueResetReason": "period",
+                "UserDescription": "ยินดีด้วย! ท่านได้รับ Ochi Coin 500 เหรียญ จากการลงทะเบียน",
+                "UserLevel": 0,
+                "CustomInfo": null,
+                "LineMessageSetting": null
+            }
+        ],
+        "badges": [
+            {
+                "id": "OLI_LoginBadge",
+                "name": "Oceanlife Consecutive Login",
+                "level": 1,
+                "points": 10,
+                "unlocked_by_others": false,
+                "auto_redeem": null,
+                "description": "ยินดีด้วย! ท่านได้รับ Ochi Coin 10 เหรียญจากการเข้าสู่ระบบต่อเนื่อง 30 วัน",
+                "fb_description": "ยินดีด้วย! ท่านได้รับ Ochi Coin 10 เหรียญจากการเข้าสู่ระบบต่อเนื่อง 30 วัน",
+                "IsSkipNoti": false,
+                "CustomInfo": null,
+                "UserLevel": 0,
+                "IsSkipNextNoti": false,
+                "error": null,
+                "LineMessageSetting": null
+            },
+            {
+                "id": "OLI_Welcome",
+                "name": "Oceanlife Welcome Campaign",
+                "level": 1,
+                "points": 0,
+                "unlocked_by_others": false,
+                "auto_redeem": null,
+                "description": "ยินดีด้วย! ท่านได้รับ Ochi Coin 500 เหรียญ จากการลงทะเบียน",
+                "fb_description": "ยินดีด้วย! ท่านได้รับ Ochi Coin 500 เหรียญ จากการลงทะเบียน",
+                "IsSkipNoti": false,
+                "CustomInfo": null,
+                "UserLevel": 0,
+                "IsSkipNextNoti": false,
+                "error": "สินค้านี้ไม่สามารถรีดีมได้",
+                "LineMessageSetting": null
+            }
+        ]
+    },
+    "updated_points": {
+        "points": 511,
+        "time": 1706784416
+    },
+    "account": {
+        "bzbsId": "OLI_00001287726",
+        "facebookId": null,
+        "deviceId": null,
+        "serverId": null,
+        "lineUserId": null,
+        "teamId": null,
+        "googleId": null,
+        "appleId": null,
+        "facebookMessengerUserId": null,
+        "adId": null,
+        "adB2CId": null,
+        "skipId": null
+    }
+}
+  
+}
