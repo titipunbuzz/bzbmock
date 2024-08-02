@@ -1,138 +1,137 @@
 {
   "badge": {
     "buzzebees": {
+      "points": 511,
+      "updated_points": {
         "points": 511,
-        "updated_points": {
-            "points": 511,
-            "time": 1706784416
+        "time": 1706784416
+      },
+      "description": "ยินดีด้วย! ท่านได้รับ Ochi Coin 1 เหรียญจากการเข้าสู่ระบบ,ยินดีด้วย! ท่านได้รับ Ochi Coin 500 เหรียญ จากการลงทะเบียน",
+      "traces": [
+        {
+          "Id": "OLI_LoginSSO",
+          "Current": 0,
+          "Change": 1,
+          "Points": 1,
+          "ObjectId": null,
+          "ValueResetReason": "period",
+          "UserDescription": "ยินดีด้วย! ท่านได้รับ Ochi Coin 1 เหรียญจากการเข้าสู่ระบบ",
+          "UserLevel": 0,
+          "CustomInfo": null,
+          "LineMessageSetting": null
         },
-        "description": "ยินดีด้วย! ท่านได้รับ Ochi Coin 1 เหรียญจากการเข้าสู่ระบบ,ยินดีด้วย! ท่านได้รับ Ochi Coin 500 เหรียญ จากการลงทะเบียน",
-        "traces": [
-            {
-                "Id": "OLI_LoginSSO",
-                "Current": 0,
-                "Change": 1,
-                "Points": 1,
-                "ObjectId": null,
-                "ValueResetReason": "period",
-                "UserDescription": "ยินดีด้วย! ท่านได้รับ Ochi Coin 1 เหรียญจากการเข้าสู่ระบบ",
-                "UserLevel": 0,
-                "CustomInfo": null,
-                "LineMessageSetting": null
-            },
-            {
-                "Id": "OLI_NewbieSSO",
-                "Current": 0,
-                "Change": 1,
-                "Points": 500,
-                "ObjectId": null,
-                "ValueResetReason": "period",
-                "UserDescription": "ยินดีด้วย! ท่านได้รับ Ochi Coin 500 เหรียญ จากการลงทะเบียน",
-                "UserLevel": 0,
-                "CustomInfo": null,
-                "LineMessageSetting": null
-            }
-        ],
-        "badges": [
-            {
-                "id": "OLI_LoginBadge",
-                "name": "Oceanlife Consecutive Login",
-                "level": 1,
-                "points": 10,
-                "unlocked_by_others": false,
-                "auto_redeem": null,
-                "description": "ยินดีด้วย! ท่านได้รับ Ochi Coin 10 เหรียญจากการเข้าสู่ระบบต่อเนื่อง 30 วัน",
-                "fb_description": "ยินดีด้วย! ท่านได้รับ Ochi Coin 10 เหรียญจากการเข้าสู่ระบบต่อเนื่อง 30 วัน",
-                "IsSkipNoti": false,
-                "CustomInfo": null,
-                "UserLevel": 0,
-                "IsSkipNextNoti": false,
-                "error": null,
-                "LineMessageSetting": null
-            },
-            {
-                "id": "OLI_Welcome",
-                "name": "Oceanlife Welcome Campaign",
-                "level": 1,
-                "points": 0,
-                "unlocked_by_others": false,
-                "auto_redeem": null,
-                "description": "ยินดีด้วย! ท่านได้รับ Ochi Coin 500 เหรียญ จากการลงทะเบียน",
-                "fb_description": "ยินดีด้วย! ท่านได้รับ Ochi Coin 500 เหรียญ จากการลงทะเบียน",
-                "IsSkipNoti": false,
-                "CustomInfo": null,
-                "UserLevel": 0,
-                "IsSkipNextNoti": false,
-                "error": "สินค้านี้ไม่สามารถรีดีมได้",
-                "LineMessageSetting": null
-            }
-        ]
+        {
+          "Id": "OLI_NewbieSSO",
+          "Current": 0,
+          "Change": 1,
+          "Points": 500,
+          "ObjectId": null,
+          "ValueResetReason": "period",
+          "UserDescription": "ยินดีด้วย! ท่านได้รับ Ochi Coin 500 เหรียญ จากการลงทะเบียน",
+          "UserLevel": 0,
+          "CustomInfo": null,
+          "LineMessageSetting": null
+        }
+      ],
+      "badges": [
+        {
+          "id": "OLI_LoginBadge",
+          "name": "Oceanlife Consecutive Login",
+          "level": 1,
+          "points": 10,
+          "unlocked_by_others": false,
+          "auto_redeem": null,
+          "description": "ยินดีด้วย! ท่านได้รับ Ochi Coin 10 เหรียญจากการเข้าสู่ระบบต่อเนื่อง 30 วัน",
+          "fb_description": "ยินดีด้วย! ท่านได้รับ Ochi Coin 10 เหรียญจากการเข้าสู่ระบบต่อเนื่อง 30 วัน",
+          "IsSkipNoti": false,
+          "CustomInfo": null,
+          "UserLevel": 0,
+          "IsSkipNextNoti": false,
+          "error": null,
+          "LineMessageSetting": null
+        },
+        {
+          "id": "OLI_Welcome",
+          "name": "Oceanlife Welcome Campaign",
+          "level": 1,
+          "points": 0,
+          "unlocked_by_others": false,
+          "auto_redeem": null,
+          "description": "ยินดีด้วย! ท่านได้รับ Ochi Coin 500 เหรียญ จากการลงทะเบียน",
+          "fb_description": "ยินดีด้วย! ท่านได้รับ Ochi Coin 500 เหรียญ จากการลงทะเบียน",
+          "IsSkipNoti": false,
+          "CustomInfo": null,
+          "UserLevel": 0,
+          "IsSkipNextNoti": false,
+          "error": "สินค้านี้ไม่สามารถรีดีมได้",
+          "LineMessageSetting": null
+        }
+      ]
     }
   },
   "new": {
     "buzzebees": {
+      "points": 511,
+      "updated_points": {
         "points": 511,
-        "updated_points": {
-            "points": 511,
-            "time": 1706784416
-        },
-        "description": "ยินดีด้วย! ท่านได้รับ Ochi Coin 1 เหรียญจากการเข้าสู่ระบบ,ยินดีด้วย! ท่านได้รับ Ochi Coin 500 เหรียญ จากการลงทะเบียน",
-        "traces": [],
-        "badges": [
-            {
-    "id": "Badge|1856959567667920_SmCIWW81aEFNJ2s0BPGxAS5FZvnJwJmQF",
-    "name": "ได้รับแคมเปญสำหรับสมาชิกใหม่",
-    "level": 1,
-    "points": 0,
-    "unlocked_by_others": false,
-    "auto_redeem": {
-      "CampaignId": 1461304,
-      "ItemNumber": 10,
-      "Serial": "8D83QYO",
-      "AgencyId": 111416,
-      "AgencyName": "Ocean Life",
-      "CatId": 9511681,
-      "Name": "test get campaign for new register",
-      "NextRedeemDate": null,
-      "CurrentDate": 1722593471,
-      "RedeemCount": 1,
-      "UseCount": 1,
-      "Qty": 99990,
-      "IsConditionPass": true,
-      "ConditionAlert": null,
-      "IsNotAutoUse": false,
-      "PointType": "use",
-      "InterfaceDisplay": null,
-      "RedeemKey": "1461304_10",
-      "PricePerUnit": 0,
-      "WalletCard": null,
-      "NextRedeemDatePerCard": null,
-      "RedeemCountPerCard": 1,
-      "UseCountPerCard": 0,
-      "CategoryDetail": null,
-      "MasterCampaignName": null,
-      "RedeemDate": 1722593472,
-      "CampaignName": "test get campaign for new register",
-      "PointPerUnit": 0,
-      "ConvertPoints": null,
-      "ConvertPrice": null,
-      "FullImageUrl": "
-https://stgstoragebuzzebees.blob.core.windows.net/campaigns/1461304?time=20240725021151"
-,
-      "ExpireIn": null,
-      "PrivilegeMessage": null,
-      "PrivilegeMessageEN": null,
-      "PrivilegeMessageFormat": null
-    },
-    "description": null,
-    "fb_description": null,
-    "IsSkipNoti": true,
-    "CustomInfo": null,
-    "UserLevel": 0,
-    "IsSkipNextNoti": false,
-    "error": null,
-    "LineMessageSetting": null
-  }
-        ]
+        "time": 1706784416
+      },
+      "description": "ยินดีด้วย! ท่านได้รับ Ochi Coin 1 เหรียญจากการเข้าสู่ระบบ,ยินดีด้วย! ท่านได้รับ Ochi Coin 500 เหรียญ จากการลงทะเบียน",
+      "traces": [],
+      "badges": [
+        {
+          "id": "Badge|1856959567667920_SmCIWW81aEFNJ2s0BPGxAS5FZvnJwJmQF",
+          "name": "ได้รับแคมเปญสำหรับสมาชิกใหม่",
+          "level": 1,
+          "points": 0,
+          "unlocked_by_others": false,
+          "auto_redeem": {
+            "CampaignId": 1461304,
+            "ItemNumber": 10,
+            "Serial": "8D83QYO",
+            "AgencyId": 111416,
+            "AgencyName": "Ocean Life",
+            "CatId": 9511681,
+            "Name": "test get campaign for new register",
+            "NextRedeemDate": null,
+            "CurrentDate": 1722593471,
+            "RedeemCount": 1,
+            "UseCount": 1,
+            "Qty": 99990,
+            "IsConditionPass": true,
+            "ConditionAlert": null,
+            "IsNotAutoUse": false,
+            "PointType": "use",
+            "InterfaceDisplay": null,
+            "RedeemKey": "1461304_10",
+            "PricePerUnit": 0,
+            "WalletCard": null,
+            "NextRedeemDatePerCard": null,
+            "RedeemCountPerCard": 1,
+            "UseCountPerCard": 0,
+            "CategoryDetail": null,
+            "MasterCampaignName": null,
+            "RedeemDate": 1722593472,
+            "CampaignName": "test get campaign for new register",
+            "PointPerUnit": 0,
+            "ConvertPoints": null,
+            "ConvertPrice": null,
+            "FullImageUrl": "https://stgstoragebuzzebees.blob.core.windows.net/campaigns/1461304?time=20240725021151",
+            "ExpireIn": null,
+            "PrivilegeMessage": null,
+            "PrivilegeMessageEN": null,
+            "PrivilegeMessageFormat": null
+          },
+          "description": null,
+          "fb_description": null,
+          "IsSkipNoti": true,
+          "CustomInfo": null,
+          "UserLevel": 0,
+          "IsSkipNextNoti": false,
+          "error": null,
+          "LineMessageSetting": null
+        }
+      ]
     }
+  }
 }
