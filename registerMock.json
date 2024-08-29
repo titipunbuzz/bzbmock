@@ -1,95 +1,92 @@
 {
-"status": "complete",
-    "username": "1724946305461",
-    "userId": "BKL_1724946306525",
-    "membershipId": 10101103,
-    "app_id": "3349033408732050",
-    "firstname": "Test",
-    "lastname": "Bob",
-    "address": null,
-    "email": "test@sssfcc.com",
-    "client_version": null,
-    "carrier": null,
-    "mac_address": null,
-    "platform": null,
-    "os": null,
-    "gender": "male",
-    "birthdate": 904348800,
-    "joinDate": 1724946306,
-    "buzzebees": {
-        "points": 20,
-        "updated_points": {
+"regisMock": {
+        "buzzebees": {
             "points": 20,
-            "time": 1724921110
-        },
-        "description": "onebangkok_register_get_point",
-        "traces": [
-            {
-                "Id": "onebangkok_register_app_point",
-                "Current": 0,
-                "Change": 1,
-                "Points": 20,
-                "ObjectId": null,
-                "ValueResetReason": "period",
-                "UserDescription": "onebangkok_register_get_point",
-                "UserLevel": 0,
-                "CustomInfo": null,
-                "LineMessageSetting": null
-            }
-        ],
-        "badges": [
-            {
-                "id": "Badge|3349033408732050_SmBtXP218ok8dggKRjgp7K3qtcumUT1sV",
-                "name": "onebangkok_register_app_coupon",
-                "level": 1,
-                "points": 0,
-                "unlocked_by_others": false,
-                "auto_redeem": {
-                    "CampaignId": 218994,
-                    "ItemNumber": 7,
-                    "Serial": "TK3RYKT",
-                    "AgencyId": 199917,
-                    "AgencyName": "bkl_onebangkok",
-                    "CatId": 9456375,
-                    "Name": "Welcome coupon for new register",
-                    "NextRedeemDate": null,
-                    "CurrentDate": 1724946309,
-                    "RedeemCount": 1,
-                    "UseCount": 1,
-                    "Qty": 999993.0,
-                    "IsConditionPass": false,
-                    "ConditionAlert": "คุณได้ใช้สิทธิพิเศษนี้ครบตามจำนวนที่กำหนดแล้ว",
-                    "IsNotAutoUse": false,
-                    "PointType": "use",
-                    "InterfaceDisplay": null,
-                    "RedeemKey": "218994_7",
-                    "PricePerUnit": 0.00,
-                    "WalletCard": null,
-                    "NextRedeemDatePerCard": null,
-                    "RedeemCountPerCard": 1,
-                    "UseCountPerCard": 0,
-                    "CategoryDetail": "1 - Not show campaign",
-                    "MasterCampaignName": null,
-                    "RedeemDate": 1724946309,
-                    "CampaignName": "Welcome coupon for new register",
-                    "PointPerUnit": 0.0,
-                    "ConvertPoints": null,
-                    "ConvertPrice": null,
-                    "FullImageUrl": "https://cdn.buzzebees-dev.com/th/campaigns/218994?time=20240827035357",
-                    "ExpireIn": null,
-                    "PrivilegeMessage": null,
-                    "PrivilegeMessageEN": null,
-                    "PrivilegeMessageFormat": null
+            "updated_points": {
+                "points": 20,
+                "time": 1724921110
+            },
+            "description": "onebangkok_register_get_point",
+            "traces": [
+                {
+                    "Id": "onebangkok_register_app_coupon",
+                    "Current": 0,
+                    "Change": 1,
+                    "Points": 0,
+                    "ObjectId": null,
+                    "ValueResetReason": "period",
+                    "UserDescription": "onebangkok_register_app_coupon",
+                    "UserLevel": 0,
+                    "CustomInfo": null,
+                    "LineMessageSetting": null
                 },
-                "description": null,
-                "fb_description": null,
-                "IsSkipNoti": true,
-                "CustomInfo": null,
-                "UserLevel": 0,
-                "IsSkipNextNoti": false,
-                "error": null,
-                "LineMessageSetting": null
-            }
-        ]
+                {
+                    "Id": "onebangkok_register_app_point",
+                    "Current": 0,
+                    "Change": 1,
+                    "Points": 20,
+                    "ObjectId": null,
+                    "ValueResetReason": "period",
+                    "UserDescription": "onebangkok_register_get_point",
+                    "UserLevel": 0,
+                    "CustomInfo": null,
+                    "LineMessageSetting": null
+                }
+            ],
+            "badges": [
+                {
+                    "id": "Badge|3349033408732050_SmBtXP218ok8dggKRjgp7K3qtcumUT1sV",
+                    "name": "onebangkok_register_app_coupon",
+                    "level": 1,
+                    "points": 0,
+                    "unlocked_by_others": false,
+                    "auto_redeem": {
+                        "CampaignId": 218994,
+                        "ItemNumber": 7,
+                        "Serial": "TK3RYKT",
+                        "AgencyId": 199917,
+                        "AgencyName": "bkl_onebangkok",
+                        "CatId": 9456375,
+                        "Name": "Welcome coupon for new register",
+                        "NextRedeemDate": null,
+                        "CurrentDate": 1724946309,
+                        "RedeemCount": 1,
+                        "UseCount": 1,
+                        "Qty": 999993.0,
+                        "IsConditionPass": false,
+                        "ConditionAlert": "คุณได้ใช้สิทธิพิเศษนี้ครบตามจำนวนที่กำหนดแล้ว",
+                        "IsNotAutoUse": false,
+                        "PointType": "use",
+                        "InterfaceDisplay": null,
+                        "RedeemKey": "218994_7",
+                        "PricePerUnit": 0.00,
+                        "WalletCard": null,
+                        "NextRedeemDatePerCard": null,
+                        "RedeemCountPerCard": 1,
+                        "UseCountPerCard": 0,
+                        "CategoryDetail": "1 - Not show campaign",
+                        "MasterCampaignName": null,
+                        "RedeemDate": 1724946309,
+                        "CampaignName": "Welcome coupon for new register",
+                        "PointPerUnit": 0.0,
+                        "ConvertPoints": null,
+                        "ConvertPrice": null,
+                        "FullImageUrl": "https://cdn.buzzebees-dev.com/th/campaigns/218994?time=20240827035357",
+                        "ExpireIn": null,
+                        "PrivilegeMessage": null,
+                        "PrivilegeMessageEN": null,
+                        "PrivilegeMessageFormat": null
+                    },
+                    "description": null,
+                    "fb_description": null,
+                    "IsSkipNoti": true,
+                    "CustomInfo": null,
+                    "UserLevel": 0,
+                    "IsSkipNextNoti": false,
+                    "error": null,
+                    "LineMessageSetting": null
+                }
+            ]
+        }
     }
 }
